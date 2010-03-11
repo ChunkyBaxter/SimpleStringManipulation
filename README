@@ -1,0 +1,17 @@
+This was sent to me as a way to pre-screen me for a job. I found this problem interesting enough to share and save it.
+
+----Code Question-----
+
+Implement a method that takes in a list of strings. Its behavior should be the following for each string:
+        a) Reverse the string if its length is a multiple of 4.
+        b) Truncate the string to 5 characters if its length is a multiple of 5.
+        c) Convert the string to all uppercase if contains at least 3 uppercase characters in the first 5 characters.
+        d) If the string ends with a hyphen, remove it, and append the next string in the list to the current one.
+        e) Print the string out.
+Additionally, give a final report of the total characters in the input, total characters in the output, and median length of each string.  Give this module a name that you think is most descriptive of what it does, while still concise.
+
+You may write this in any language you choose.  You may build this in an OO fashion if you like. Clean, readable code, with minimal memory overhead, and decomposed into individual pieces is a plus. Please include a set of inputs that, when considered together, would use each piece of functionality.
+
+If you are unsure about any of the requirements, use your best judgment without fear of picking the "wrong" interpretation.  This exercise is about seeing how you code, not seeing if you assume any particular behavior is implied or not.
+
+Give yourself about an hour to come up with a solution, then send in what you have.  Again, the point here is to observe how you code.  An interview at our company involves technical questions that you are expected to reason through at the time, so use your hour to explore what you already know, not to try to teach yourself completely new concepts or a new language from scratch.  If you still find yourself struggling to come up with any ideas in an hour, then you are currently unprepared for an interview at our company.  We encourage you to continue to learn on your own, through your classwork, personal projects, or other experience, and to revisit us at a career fair at a later date, then armed with a better idea of the level of programming experience we expect.
